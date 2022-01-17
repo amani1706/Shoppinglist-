@@ -6,7 +6,7 @@ level = 5 #Debug
 
 [database]
 username = "root"
-password = "muni123chavva"
+password = "12345"
 dbname = "shoppinglist"
 ip = "localhost"
 port = 3306
